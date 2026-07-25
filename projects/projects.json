@@ -1,0 +1,10 @@
+  {
+    "name": "JavaScript Projects Website",
+    "desc": "This website is specially build to showcase all major javaScript projects. All my javaScript based projects are in it.",
+    "image": "jspro",
+    "category": "basicweb",
+    "links": {
+      "view": "https://probal2005/JavaScript-Projects",
+      "code": "https://github.com/probal2005/JavaScript-Projects"
+    }
+  },
