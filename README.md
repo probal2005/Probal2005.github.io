@@ -115,7 +115,7 @@ Portfolio/
 ## Clone the Repository
 
 ```bash
-git clone https://github.com/USERNAME/Portfolio.git
+git clone https://github.com/probal2005/probal2005.github.io.git
 ```
 
 ---
@@ -154,10 +154,10 @@ assets/js/contact.js
 
 # 🌎 Live Demo
 
-Replace with your deployed website link.
+View my website.
 
 ```
-https://your-portfolio-url.vercel.app
+https://probal2005.github.io/
 ```
 
 ---
