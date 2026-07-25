@@ -230,7 +230,7 @@ probaldhali2006@gmail.com
 
 # 📜 License
 
-This project is licensed under the **MIT License**.
+This project is licensed under the **MPL-2.0 License**.
 
 Feel free to fork this project and customize it for your own portfolio.
 
